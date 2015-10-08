@@ -1,1 +1,3 @@
-Just about to begin the Ballroom problem
+->I have completed writing all the methods till now.
+->The main purpose for which we did all this, i.e. the collision thing is working properly and i have tested that in main
+->I have yet not added comments above each method and also havent made the test file for the ball class
